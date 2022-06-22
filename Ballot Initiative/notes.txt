@@ -1,0 +1,19 @@
+colors:
+
+rgb(205, 56, 54)
+rgb(217, 29, 50)
+rgb(26, 19, 99)
+rgb(27, 20, 100)
+rgb(100, 100, 100)
+
+fonts:
+Headings - Oswald
+Paragraphs - Adobe Garamont
+Buttons - Adobe Garamont
+Misc. - Poppins
+
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&family=Oswald&family=Poppins:wght@300&display=swap');
+
+font-family: 'EB Garamond', serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Poppins', sans-serif;
